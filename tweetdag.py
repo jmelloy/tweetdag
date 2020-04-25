@@ -1,7 +1,7 @@
 from urllib2 import urlopen, URLError
 from user import User
 import sys
-import simplejson as json
+import json
 import psycopg2
 import cPickle
 import time

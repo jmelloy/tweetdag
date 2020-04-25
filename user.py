@@ -1,6 +1,6 @@
 from urllib2 import urlopen, URLError
 from urllib import urlretrieve
-import simplejson as json
+import json
 import psycopg2
 import os.path
 from PIL import Image
